@@ -1,2 +1,4 @@
 *.sh
 .ipynb_checkpoints/
+*.h5
+logs/
